@@ -45,6 +45,7 @@
   </ol>
 </details>
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 <img src="images/screenshot.png" alt="ScreenShot" >
