@@ -48,8 +48,6 @@
 ## About The Project
 
 <img src="images/screenshot.png" alt="ScreenShot" >
-<img src="images/screenshot2.png" alt="ScreenShot" >
-<img src="images/screenshot3.png" alt="ScreenShot" >
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
