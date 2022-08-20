@@ -9,7 +9,7 @@
 <h3 align="center">AdminData Api</h3>
 
   <p align="center">
-    Get Admins Data From CS:GO servers with SourceMod And Make Them Profile In MongoDb
+    Get Admins Data From CS:GO servers with SourceMod And Make Them Profile In MongoDB
     <br />
     <a href="https://github.com/Zer0Power/AdminData-Api"><strong>Explore the docs »</strong></a>
     <br />
